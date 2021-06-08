@@ -50,17 +50,17 @@ section.inner-featured-box3 {
 }
 
 section.inner-featured-box {
-  background-image: url("pexels-bradley-hook-123335-removebg-preview.png");
+  background-image: url("/images/pexels-bradley-hook-123335-removebg-preview.png");
   background-color: rgba(255, 72, 0, 0.774);
 }
 
 section.inner-featured-box2 {
-  background-image: url("Panasonic_Lumix_DC-G100_Selfie-removebg-preview.png");
+  background-image: url("/images/Panasonic_Lumix_DC-G100_Selfie-removebg-preview.png");
   background-color: rgba(3, 7, 241, 0.658);
 }
 
 section.inner-featured-box3 {
-  background-image: url("DJI-Phantom-4-Advanced-Plus-removebg-preview.png");
+  background-image: url("/images/DJI-Phantom-4-Advanced-Plus-removebg-preview.png");
   background-color: rgba(220, 73, 250, 0.836);
 }
 
