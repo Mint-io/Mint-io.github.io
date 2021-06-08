@@ -107,35 +107,35 @@ button.btn-best-seller:hover {
 }
 
 section.top-col-best-seller-part-one-4 {
-  background-image: url("makeup_items-removebg-preview.png");
+  background-image: url("/images/makeup_items-removebg-preview.png");
 }
 
 section.top-col-best-seller-part-one-2 {
-  background-image: url("BNRINGBOX_HERO_C_100617-removebg-preview.png");
+  background-image: url("/images/BNRINGBOX_HERO_C_100617-removebg-preview.png");
 }
 
 section.top-col-best-seller-part-one-3 {
-  background-image: url("women's tassel.png");
+  background-image: url("/images/women's tassel.png");
 }
 
 section.top-col-best-seller-part-one-1 {
-  background-image: url("98004c651555825d-removebg-preview.png");
+  background-image: url("/images/98004c651555825d-removebg-preview.png");
 }
 
 section.top-col-best-seller-part-two-2 {
-  background-image: url("JBL_FLIP4_ACC_BLACK_6957_FS_x2-1605x1605px.png");
+  background-image: url("/images/JBL_FLIP4_ACC_BLACK_6957_FS_x2-1605x1605px.png");
 }
 
 section.top-col-best-seller-part-two-4 {
-  background-image: url("lifest2-removebg-preview.png");
+  background-image: url("/images/lifest2-removebg-preview.png");
 }
 
 section.top-col-best-seller-part-two-1 {
-  background-image: url("dualshock-4-listing-thumb-01-ps4-en-12oct20-removebg-preview.png");
+  background-image: url("/images/dualshock-4-listing-thumb-01-ps4-en-12oct20-removebg-preview.png");
 }
 
 section.top-col-best-seller-part-two-3 {
-  background-image: url("1-removebg-preview.png");
+  background-image: url("/images/1-removebg-preview.png");
 }
 
 @media only screen and (max-width: 800px) {
