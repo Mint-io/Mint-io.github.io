@@ -97,6 +97,10 @@ button.signup:hover {
     padding: 5px;
     margin: 5px;
   }
+     div.signup-wrap-container{
+        padding: 0.5rem 2rem; 
+     }
+     
   div.signup-wrap {
     display: -webkit-box;
     display: -ms-flexbox;

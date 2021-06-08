@@ -70,6 +70,9 @@ footer section.foot-box2 ul li a:hover {
 }
 
 @media only screen and (max-width: 800px) {
+  footer * {
+    font-size: 0.85rem;
+  }
   footer div.foot-container {
     display: inline-block;
     padding: 0px;
