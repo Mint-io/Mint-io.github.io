@@ -28,12 +28,12 @@ div.low-top-head {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
-  -webkit-box-align: space-evenly;
-      -ms-flex-align: space-evenly;
-          align-items: space-evenly;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align:center;
+          align-items: center;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   background-color: rgba(17, 168, 168, 0.918);
